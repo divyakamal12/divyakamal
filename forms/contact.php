@@ -37,7 +37,7 @@ $email_message .= "Subject: $subject\n\n";
 $email_message .= "Message:\n$message\n";
 
 // Set the recipient email address (change this to your email)
-$to = 'your-email@example.com';
+$to = ''divya.kamal241@gmail.com'';
 
 // Set the email headers
 $headers = "From: $email\n";
